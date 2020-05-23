@@ -12,6 +12,7 @@ To use it, hold "Shift -> Alt -> F" to make your code "Prettier".
 
 * End to end tests are used to test app behavior through user interaction. They are great to test out use cases and use Protractor with Angular.
 
+* When generating things like components, directives and services with the Angular CLI, put in the flag -d to do a dry run and see what files will be generated (this may not make sense at first, but I promise you, it may save you a couple of headaches later)
 
 ## Angular Commands
 * ng new (or n) "application name"
